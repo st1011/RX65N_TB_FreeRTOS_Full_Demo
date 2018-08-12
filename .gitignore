@@ -1,3 +1,7 @@
+.settings/
+HardwareDebug/
+trash/
+
 # Object files
 *.o
 *.ko
