@@ -157,6 +157,18 @@
 							<tool id="com.renesas.cdt.managedbuild.renesas.ccrx.base.rtosConfig.19823852" name="RTOS Configurator" superClass="com.renesas.cdt.managedbuild.renesas.ccrx.base.rtosConfig"/>
 						</toolChain>
 					</folderInfo>
+					<folderInfo id="com.renesas.cdt.managedbuild.renesas.ccrx.hardwaredebug.configuration.1828793245.858548050" name="/" resourcePath="trash">
+						<toolChain id="com.renesas.cdt.managedbuild.renesas.ccrx.hardwaredebug.toolChain.1630863095" name="Renesas CCRX Toolchain" superClass="com.renesas.cdt.managedbuild.renesas.ccrx.hardwaredebug.toolChain" unusedChildren="">
+							<tool id="com.renesas.cdt.managedbuild.renesas.ccrx.base.dsp.879428989" name="DSP Assembler" superClass="com.renesas.cdt.managedbuild.renesas.ccrx.base.dsp.1983252960"/>
+							<tool id="com.renesas.cdt.managedbuild.renesas.ccrx.base.common.1976295382" name="Common" superClass="com.renesas.cdt.managedbuild.renesas.ccrx.base.common.1733654433"/>
+							<tool id="com.renesas.cdt.managedbuild.renesas.ccrx.base.compiler.98837032" name="Compiler" superClass="com.renesas.cdt.managedbuild.renesas.ccrx.base.compiler.418049094"/>
+							<tool id="com.renesas.cdt.managedbuild.renesas.ccrx.base.assembler.1119923280" name="Assembler" superClass="com.renesas.cdt.managedbuild.renesas.ccrx.base.assembler.850127735"/>
+							<tool id="com.renesas.cdt.managedbuild.renesas.ccrx.base.linker.1920044117" name="Linker" superClass="com.renesas.cdt.managedbuild.renesas.ccrx.base.linker.1941710664"/>
+							<tool id="com.renesas.cdt.managedbuild.renesas.ccrx.base.librarian.1574962664" name="Library Generator" superClass="com.renesas.cdt.managedbuild.renesas.ccrx.base.librarian.4600748"/>
+							<tool id="com.renesas.cdt.managedbuild.renesas.ccrx.base.converter.1162485991" name="Converter" superClass="com.renesas.cdt.managedbuild.renesas.ccrx.base.converter.1054715438"/>
+							<tool id="com.renesas.cdt.managedbuild.renesas.ccrx.base.rtosConfig.1331548454" name="RTOS Configurator" superClass="com.renesas.cdt.managedbuild.renesas.ccrx.base.rtosConfig.19823852"/>
+						</toolChain>
+					</folderInfo>
 					<sourceEntries>
 						<entry excluding="FreeRTOS/Demo/Common/Minimal/StaticAllocation.c|FreeRTOS/Demo/Common/Minimal/flop.c|FreeRTOS/Demo/Common/Minimal/flash_timer.c|FreeRTOS/Demo/Common/Minimal/crflash.c|FreeRTOS/Demo/Common/Minimal/comtest.c|FreeRTOS/Demo/Common/Minimal/crhook.c|FreeRTOS/Demo/Common/Minimal/comtest_strings.c|FreeRTOS/Demo/Common/Full|FreeRTOS/Demo/Common/ethernet|FreeRTOS/Demo/Common/drivers|FreeRTOS/Minimal|FreeRTOS/Full_Demo|FreeRTOS/Blinky_Demo|FreeRTOS/Source/portable/MemMang/heap_5.c|FreeRTOS/Source/portable/MemMang/heap_3.c|FreeRTOS/Source/portable/MemMang/heap_2.c|FreeRTOS/Source/portable/MemMang/heap_1.c" flags="VALUE_WORKSPACE_PATH" kind="sourcePath" name="src"/>
 					</sourceEntries>
